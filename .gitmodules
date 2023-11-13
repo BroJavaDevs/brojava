@@ -1,0 +1,3 @@
+[submodule "brojava-release"]
+	path = brojava-release
+	url = git@github.com:BroJavaDevs/brojava-release.git
