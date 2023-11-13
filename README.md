@@ -6,3 +6,6 @@ With a shared dedication to open-source development and the belief that coding c
 The community's motto is "Code with a Bro, Learn with a Bro," emphasizing the importance of cooperation and mentorship. BroJava members frequently engage in hackathons, workshops, and coding challenges, all aimed at honing their coding prowess while having a great time doing what they love.
 
 As they continue to expand and attract like-minded individuals who share their passion for coding and learning, BroJava is on its way to becoming a recognized hub for innovative programming and a close-knit community of developers who code not only for fun but also to make a meaningful impact in the world of technology.
+
+## Mission:
+At BroJava, our mission is to foster a dynamic community of passionate coders and empower them to collaboratively explore, learn, and create through code. We are committed to providing an inclusive and supportive environment where individuals of all skill levels can thrive. Our aim is to promote the values of open-source development, creativity, and knowledge-sharing. We aspire to continually enhance our programming skills, leverage technology for positive change, and make a lasting impact in the world of software development.
